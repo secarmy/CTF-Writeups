@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/secarmy/CTF-Writeups/blob/master/secarmy.png?raw=true" /></p>
+
 # SECARMY CTF 2.0 Junior
 
 | Source                 | User                   | Writeups               |
